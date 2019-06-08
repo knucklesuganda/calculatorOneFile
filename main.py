@@ -8,6 +8,7 @@ from MoreFunctions import MoreFunctions
 from History import History
 
 import config
+from math import *
 
 
 class MainApp(App):
